@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigeModel-Console", "EnigeModel-Console\EnigeModel-Console.csproj", "{BB1C999B-B6A8-4534-AC0C-0677F0D3C190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1C999B-B6A8-4534-AC0C-0677F0D3C190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1C999B-B6A8-4534-AC0C-0677F0D3C190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1C999B-B6A8-4534-AC0C-0677F0D3C190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1C999B-B6A8-4534-AC0C-0677F0D3C190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D5FE36-87AC-4D75-B721-F6A5EC4ED1D0}
+	EndGlobalSection
+EndGlobal
